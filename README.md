@@ -1,1 +1,1 @@
-This is for inages
+This is for images
